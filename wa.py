@@ -30,7 +30,7 @@ merah="\033[1;91m"
 biru="\033[1;96m"
 
 os.system("clear")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}OJO LALI FOLLOW INSTAGRAM KU COEG @Marshall Setian")
+autoketik(f"{biru}[{kuning}Warning{biru}] {W}FOLLOW INSTAGRAM KU COEG @Marshall Setian")
 time.sleep(3)
 os.system("xdg-open https://www.facebook.com/yoelmars1509")
 autoketik(f"{biru}[{kuning}Warning{biru}] {W}Thx yang udah FOLLOW YAH.., semoga work")
